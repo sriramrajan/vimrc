@@ -26,7 +26,7 @@ set nojoinspaces                " no extra space after a dot when joining lines
 
 " search settings
 set incsearch                   " do incremental search
-set ignorecase                  " do case insencitive search...
+set ignorecase                  " do case insensitive search...
 set smartcase                   " ...unless capital letters are used
 set hlsearch                    " highlight search results
 
