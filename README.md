@@ -5,11 +5,12 @@ Configuration files for Vim text editor.
 
 *vimrc*
 
-Main configuration file for Vim. To use it on Unix-like systems, save it as:
+Main configuration file for Vim. To use this file on Unix-like systems, save it
+as:
 
 `~/.vim/vimrc`
 
-To use it on Microsoft Windows, save it as:
+To use this file on Microsoft Windows, save it as:
 
 `C:\Users\%USERNAME%\vimfiles\vimrc`
 
@@ -19,8 +20,8 @@ installed by default.
 *gvimrc*
 
 Configuration file for gVim. This file is used only by gVim and it is ignored
-by Vim in console. It also overrides any settings from *vimrc*. To use it, save
-it in the same place as *vimrc* (see above).
+by Vim in console, it also overrides any settings from *vimrc*. To use this
+file, save it in the same place as *vimrc* (see above).
 
 -------------------------------------------------------------------------------
 Copyright (C) 2014 Mikołaj Bartnicki <mikobartnicki@gmail.com> -
