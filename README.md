@@ -18,9 +18,9 @@ installed by default.
 
 *gvimrc*
 
-Configuration file for gVim. Interpreted only by gVim, ignored by Vim in
-console. Overrides any settings from *vimrc*. To use it, save it in the same
-place as *vimrc* (see above).
+Configuration file for gVim. This file is used only by gVim and it is ignored
+by Vim in console. It also overrides any settings from *vimrc*. To use it, save
+it in the same place as *vimrc* (see above).
 
 -------------------------------------------------------------------------------
 Copyright (C) 2014 Mikołaj Bartnicki <mikobartnicki@gmail.com> -
