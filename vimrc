@@ -1,5 +1,5 @@
 " Configuration file for Vim and gVim
-" Written by Mikołaj Bartnicki <mikobartnicki@gmail.com> on 2014-12-07.
+" Written by Mikołaj Bartnicki <mikobartnicki@gmail.com> on 2014-12-10.
 " To use on Unix-like systems, save as: '~/.vim/vimrc'.
 " To use on Windows systems, save as: 'C:\Users\%USERNAME%\vimfiles\vimrc'.
 
@@ -17,7 +17,7 @@ set confirm                     " confirm :q in case of unsaved changes
 set nobackup                    " don't keep the backup~ file
 
 " edit settings
-set textwidth=80                " wrap lines automatically at 80th column
+set textwidth=79                " set maximum width of text (columns)
 set tabstop=4                   " set [Tab] length (columns)
 set shiftwidth=4                " set indentation depth (columns)
 set expandtab                   " replace [Tab] with spaces
